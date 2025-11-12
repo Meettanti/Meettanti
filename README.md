@@ -60,7 +60,7 @@ I enjoy building small things, solving logical puzzles, and improving bit by bit
 I’d love to connect, learn, and share ideas!  
 If you’re also exploring code or have some tips — reach out 😄  
 
-📧 Email: [meettanti@example.com](mailto:meettanti@example.com)  
+📧 Email: [meettanti@gmail.com](mailto:meettanti@gmail.com)  
 🌐 GitHub: [github.com/MeetTanti](https://github.com/MeetTanti)
 
 ---
